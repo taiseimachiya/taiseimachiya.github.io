@@ -4,6 +4,7 @@ title = "My Blog Site"
 contentDir = "post"
 disableKinds = ["RSS","sitemap"]
 theme = "ananke"
+publishDir = "docs"
 [taxonomies]
 tag = "tags"
 
