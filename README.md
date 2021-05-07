@@ -1,1 +1,3 @@
-# taiseimachiya.github.io
+# 私のブログサイトはこちら
+
+https://taiseimachiya.github.io/
