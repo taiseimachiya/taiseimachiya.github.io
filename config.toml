@@ -1,0 +1,8 @@
+baseURL = "http://taiseimachiya.github.io"
+languageCode = "ja"
+title = "My Blog Site"
+contentDir = "post"
+disableKinds = ["RSS","sitemap"]
+[taxonomies]
+tag = "tags"
+
