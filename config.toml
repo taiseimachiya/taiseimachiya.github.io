@@ -3,6 +3,7 @@ languageCode = "ja"
 title = "My Blog Site"
 contentDir = "post"
 disableKinds = ["RSS","sitemap"]
+theme = "ananke"
 [taxonomies]
 tag = "tags"
 
