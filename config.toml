@@ -1,10 +1,10 @@
 baseURL = "http://taiseimachiya.github.io"
 languageCode = "ja"
-title = "My Blog Site"
+title = "社会人のブログサイト"
 contentDir = "post"
 disableKinds = ["RSS","sitemap"]
-theme = "ananke"
 publishDir = "docs"
+theme = "ananke"
 [taxonomies]
 tag = "tags"
 
